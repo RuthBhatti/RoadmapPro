@@ -1,0 +1,4 @@
+project_id = "azzttdpzhhjwzsqhiccp"
+
+[functions.generate-roadmap-tasks]
+verify_jwt = true
